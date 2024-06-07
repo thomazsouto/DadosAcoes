@@ -9,10 +9,6 @@ __________________________________________________*****_________________________
 
 Para utilizar o sistema:
 
-Execute a env
+Instale as dependencias do arquivo requirements.txt;
 
-source env/bin/activate
-
-Execute o projeto: 
-
-python3.11 projeto.py
+Execute o arquivo projeto.py
