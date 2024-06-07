@@ -3,3 +3,16 @@ O sistema permite acompanhar os dados de ações com base nos parâmetros fornec
 Maior valor
 Menor valor
 Valor médio
+
+
+__________________________________________________*****__________________________________________
+
+Para utilizar o sistema:
+
+Execute a env
+
+source env/bin/activate
+
+Execute o projeto: 
+
+python3.11 projeto.py
